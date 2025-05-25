@@ -1,4 +1,5 @@
-# Bem-vindo ao meu perfil do Github!
+<h1 align="center">Bem-vindo ao meu perfil do Github!</h1>
+<h3 align="center"><em>Welcome to my Github profile!</em></h3>
 
 ## Ferramentas e Tecnologias
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -17,6 +18,13 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" style="display: inline-block;"/>
 </div>
 
+<div>
+  <a href="https://github.com/arthur-oliver">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-oliver&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-oliver&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
 ## Contatos:
 <div>
   <a href="mailto:arthuroliverrossialves@gmail.com">
@@ -27,12 +35,5 @@
   </a>
   <a href="https://instagram.com/arthur.oliverrossi" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/arthur-oliver">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-oliver&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-oliver&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
