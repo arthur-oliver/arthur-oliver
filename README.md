@@ -1,9 +1,4 @@
-# Bem-vindo ao meu perfil do Github! (🇧🇷)  
-# Welcome to my Github profile! (🇺🇸)
-
-## Ferramentas e Tecnologias
-# Bem-vindo ao meu perfil do Github! (🇧🇷)  
-# Welcome to my Github profile! (🇺🇸)
+## Bem-vindo ao meu perfil do Github! (🇧🇷)  - Welcome to my Github profile! (🇺🇸)
 
 ## Ferramentas e Tecnologias
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
