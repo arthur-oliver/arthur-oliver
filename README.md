@@ -1,6 +1,4 @@
 # Bem-vindo ao meu perfil do Github!
-Welcome to my Github profile! (🇺🇸)
-
 
 ## Ferramentas e Tecnologias
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -18,7 +16,6 @@ Welcome to my Github profile! (🇺🇸)
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" style="display: inline-block;"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" style="display: inline-block;"/>
 </div>
-
 
 ## Contatos:
 <div>
