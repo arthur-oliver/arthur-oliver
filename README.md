@@ -43,6 +43,6 @@
 </div>
 
 ## Portifólio:
-<a href="https://portifolio-plum-beta-49.vercel.app/" target="_blank">
+<a href="https://portifolio-plum-beta-49.vercel.app/" target="_blank" align="center">
   <img src="https://img.shields.io/badge/Portfólio-black?style=for-the-badge" alt="Portfólio">
 </a>
