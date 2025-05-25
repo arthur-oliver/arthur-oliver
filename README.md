@@ -40,6 +40,6 @@
 </div>
 <div align="center">
   <a href="https://portifolio-plum-beta-49.vercel.app/" target="_blank">
-    👉🏻 Clique aqui para acessar o meu portfólio!
+    <img src="https://img.shields.io/badge/Portfólio-black?style=for-the-badge" alt="Portfólio">
   </a>
 </div>
