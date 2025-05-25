@@ -1,8 +1,5 @@
 <h1 align="center">Bem-vindo ao meu perfil do Github!</h1>
 <h3 align="center"><em>Welcome to my Github profile!</em></h3>
-<div align="center">
-
-</div>
 
 ## Status:
 <div>
@@ -43,6 +40,8 @@
 </div>
 
 ## Portifólio:
-<a href="https://portifolio-plum-beta-49.vercel.app/" target="_blank" align="center">
-  <img src="https://img.shields.io/badge/Portfólio-black?style=for-the-badge" alt="Portfólio">
-</a>
+<div align="center">
+  <a href="https://portifolio-plum-beta-49.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-black?style=for-the-badge" alt="Portfólio">
+  </a>
+</div>
