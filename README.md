@@ -1,5 +1,10 @@
 <h1 align="center">Bem-vindo ao meu perfil do Github!</h1>
 <h3 align="center"><em>Welcome to my Github profile!</em></h3>
+<div align="center">
+<a href="https://portifolio-plum-beta-49.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-black?style=for-the-badge" alt="Portfólio">
+</a>
+</div>
 
 ## Status:
 <div>
@@ -36,10 +41,5 @@
   </a>
   <a href="https://instagram.com/arthur.oliverrossi" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-</div>
-<div align="center">
-  <a href="https://portifolio-plum-beta-49.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-black?style=for-the-badge" alt="Portfólio">
   </a>
 </div>
