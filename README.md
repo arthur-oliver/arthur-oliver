@@ -37,4 +37,4 @@
   </a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/arthur-oliver/arthur-oliver/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/arthur-oliver/arthur-oliver/blob/output/github-contribution-grid-snake.svg?timestamp=123456)
