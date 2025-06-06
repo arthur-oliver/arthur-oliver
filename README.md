@@ -8,9 +8,11 @@
     <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-oliver&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+<!--
 <p align="center">
   <img src="https://github.com/arthur-oliver/arthur-oliver/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+-->
 ## Ferramentas e Tecnologias
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" style="display: inline-block;"/>
