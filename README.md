@@ -9,8 +9,7 @@
   </a>
 </div>
 <p align="center">
-  <img src="https://github.com/arthur-oliver/arthur-oliver/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-  ![snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 ## Ferramentas e Tecnologias
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
