@@ -2,7 +2,7 @@
 
 <h3 align="center"><em>Welcome to my Github profile!</em></h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+de+Software+Multiplataforma;💻+Codando+ideias+em+realidade;🚀+Apaixonado+por+tecnologia+e+inovação;🧠+Aprendizado+contínuo+é+a+chave;🌍+Construindo+soluções+para+o+mundo&center=true&width=650&height=60&color=00c66f&vCenter=true&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+de+Software+Multiplataforma;💻+Codando+ideias+em+realidade;🚀+Apaixonado+por+tecnologia+e+inovação;🧠+Aprendizado+contínuo+é+a+chave;🌍+Construindo+soluções+para+o+mundo&center=true&width=650&height=60&color=9dc009&vCenter=true&size=22)](https://git.io/typing-svg)
 
 ## Status:
 <div align="center">
