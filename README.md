@@ -1,10 +1,8 @@
-<<h1 align="center">Bem-vindo ao meu perfil do Github!</h1>
+<h1 align="center">Bem-vindo ao meu perfil do Github!</h1>
 
 <h3 align="center"><em>Welcome to my Github profile!</em></h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+de+Software+Multiplataforma;Arthur+Óliver&center=true&width=500&height=50" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+de+Software+Multiplataforma;Arthur+Óliver&center=true&width=500&height=50)](https://git.io/typing-svg)
 
 ## Status:
 <div align="center">
