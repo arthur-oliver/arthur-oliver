@@ -32,16 +32,12 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" style="display: inline-block;"/>
 </div>
 
-## Projetos:
-<div align="center">
-  <a href="https://github.com/arthur-oliver/tcc-ti" target="_blank">
-    <img src="https://img.shields.io/badge/PACKUP-ffdcbc?style=for-the-badge&logoColor=black" alt="PACKUP">
-  </a>
+## Projetos
 
-  <a href="https://github.com/arthur-oliver/api-crows" target="_blank">
-    <img src="https://img.shields.io/badge/CROWS-2978DF?style=for-the-badge&logoColor=white" alt="CROWS">
-  </a>
-</div>
+<p align="center">
+  <a href="https://github.com/arthur-oliver/tcc-ti" target="_blank"><img src="https://img.shields.io/badge/PACKUP-ffdcbc?style=for-the-badge&logoColor=black" alt="PACKUP"/></a>
+  <a href="https://github.com/arthur-oliver/api-crows" target="_blank"><img src="https://img.shields.io/badge/CROWS-2978DF?style=for-the-badge&logoColor=white" alt="CROWS"/></a>
+</p>
 
 ## Contatos:
 <div align="center">
