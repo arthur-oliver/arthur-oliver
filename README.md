@@ -2,9 +2,9 @@
 
 <h3 align="center"><em>Welcome to my Github profile!</em></h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=💼+DESENVOLVEDOR+DE+SOFTWARE+MULTIPLATAFORMA+|+TI;💻+CODANDO+IDEIAS+EM+REALIDADE;💡+APAIXONADO+POR+TECNOLOGIA+E+INOVAÇÃO;🧠+APRENDIZADO+CONTÍNUO;🌍+CONSTRUINDO+SOLUÇÕES+PARA+O+MUNDO+%7C&center=true&width=650&height=60&color=9dc009&vCenter=true&size=22&pause=1000&repeat=true" alt="Typing SVG" />
-</p>
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💼+DESENVOLVEDOR+DE+SOFTWARE+MULTIPLATAFORMA+|+TI;💻+CODANDO+IDEIAS+EM+REALIDADE;💡+APAIXONADO+POR+TECNOLOGIA+E+INOVAÇÃO;🧠+APRENDIZADO+CONTÍNUO;🌍+CONSTRUINDO+SOLUÇÕES+PARA+O+MUNDO+%7C&center=true&width=650&height=60&color=9dc009&vCenter=true&size=22&pause=1000&repeat=true)](https://git.io/typing-svg)
+</div>
 
 ## Status:
 <div align="center">
