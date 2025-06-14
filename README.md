@@ -18,7 +18,7 @@
 </p>
 -->
 
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" style="display: inline-block;"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" style="display: inline-block;"/>
@@ -32,14 +32,13 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" style="display: inline-block;"/>
 </div>
 
-## Projetos
-
+## Projetos:
 <p align="center">
   <a href="https://github.com/arthur-oliver/tcc-ti" target="_blank"><img src="https://img.shields.io/badge/PACKUP-ffdcbc?style=for-the-badge&logoColor=black" alt="PACKUP"/></a>
   <a href="https://github.com/arthur-oliver/api-crows" target="_blank"><img src="https://img.shields.io/badge/CROWS-2978DF?style=for-the-badge&logoColor=white" alt="CROWS"/></a>
 </p>
 
-## Contatos
+## Contatos:
 <p align="center">
   <a href="mailto:arthuroliverrossialves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/arthur-óliver-728123350/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
