@@ -37,9 +37,11 @@
   <a href="mailto:arthuroliverrossialves@gmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+
   <a href="https://www.linkedin.com/in/arthur-óliver-728123350/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+
   <a href="https://instagram.com/arthur.oliverrossi" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
@@ -49,5 +51,16 @@
 <div align="center">
   <a href="https://portfolio-ashy-xi-51.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-black?style=for-the-badge" alt="Portfólio">
+  </a>
+</div>
+
+## Projetos
+<div align="center">
+  <a href="https://github.com/arthur-oliver/tcc-ti" target="_blank">
+    <img src="https://img.shields.io/badge/PACKUP-ffdcbc?style=for-the-badge&logoColor=black" alt="PACKUP">
+  </a>
+
+  <a href="https://github.com/arthur-oliver/api-crows" target="_blank">
+    <img src="https://img.shields.io/badge/CROWS-2978DF?style=for-the-badge&logoColor=white" alt="CROWS">
   </a>
 </div>
