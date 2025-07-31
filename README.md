@@ -7,8 +7,8 @@
 ## Status:
 <div align="center">
   <a href="https://github.com/arthur-oliver">
+        <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-oliver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
     <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-oliver&layout=compact&langs_count=7&theme=tokyonight"/>
-    <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-oliver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
