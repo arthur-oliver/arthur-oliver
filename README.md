@@ -7,10 +7,16 @@
 ## Status:
 <div align="center">
   <a href="https://github.com/arthur-oliver">
-        <img align="center" loading="lazy" height="180em" margin-bottom="1%" src="https://github-readme-stats.vercel.app/api?username=arthur-oliver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img align="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-oliver&layout=compact&langs_count=7&theme=tokyonight"/>
+    <div>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-oliver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </div>
+    <br>
+    <div>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-oliver&layout=compact&langs_count=7&theme=tokyonight"/>
+    </div>
   </a>
 </div>
+
 
 <!--
 <p align="center">
