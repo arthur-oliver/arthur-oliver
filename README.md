@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=💼+DESENVOLVEDOR+DE+SOFTWARE+MULTIPLATAFORMA+|+TI;💻+CODANDO+IDEIAS+EM+REALIDADE;💡+APAIXONADO+POR+TECNOLOGIA+E+INOVAÇÃO;🧠+APRENDIZADO+CONTÍNUO;🌍+CONSTRUINDO+SOLUÇÕES+PARA+O+MUNDO+%7C&center=true&width=650&height=60&color=6fa4fc&vCenter=true&size=22&pause=1000&repeat=true)](https://git.io/typing-svg)
 
+<!--
 ## Status:
 <div align="center">
   <a href="https://github.com/arthur-oliver">
@@ -16,6 +17,7 @@
     </div>
   </a>
 </div>
+-->
 
 <!--
 <p align="center">
