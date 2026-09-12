@@ -47,6 +47,9 @@
   <a href="https://github.com/arthur-oliver/api-crows" target="_blank">
     <img src="https://img.shields.io/badge/CROWS-2978DF?style=for-the-badge&logoColor=white" alt="CROWS"/>
   </a>
+  <a href="https://github.com/leovmatiusso/API2_DSM_SprintingCheetahs" target="_blank">
+    <img src="https://img.shields.io/badge/SprintingCheetahs-FFA500?style=for-the-badge&labelColor=FFA500&color=FFA500" alt="SprintingCheetahs"/>
+  </a>
 </p>
 
 ## Contatos:
